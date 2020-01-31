@@ -289,7 +289,7 @@
                 <div class="col-md-12 pt-5">
                   <ul class="pagination custom-pagination">
                     <li class="page-item prev"><a class="page-link" href="#"><i class="ion-ios-arrow-back"></i></a></li>
-                    <li class="page-item active"><a class="page-linkx href="#">1</a></li>
+                    <li class="page-item active"><a class="page-linkx" href="#">1</a></li>
                     <li class="page-item"><a class="page-link" href="#">2</a></li>
                     <li class="page-item"><a class="page-link" href="#">3</a></li>
                     <li class="page-item next"><a class="page-link" href="#"><i class="ion-ios-arrow-forward"></i></a></li>
